@@ -1,0 +1,12 @@
+{
+	"name": "marketplace-adblock",
+	"version": "1.0",
+	"description": "Chrome extension to hide product ads on Indonesian marketplace pages",
+	"manifest_version": 2,
+	"content_scripts": [
+		{
+			"matches": ["https://*.tokopedia.com/*", "https://*.shopee.co.id/*"],
+			"css": ["ads.css"]
+		}
+	]
+}
