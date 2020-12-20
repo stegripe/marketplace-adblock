@@ -1,0 +1,17 @@
+/* Tokopedia */
+a[label-atm] {
+	display: none;
+}
+
+div[data-testid="topadsCPMWrapper"] {
+	display: none;
+}
+
+/* Shopee */
+div.shopee-search-item-result > div.row.shopee-search-item-result__items > div:nth-child(n + 1):nth-child(-n + 5) {
+	display: none;
+}
+
+div.shopee-search-item-result > div.row.shopee-search-item-result__items > div:nth-child(n + 46):nth-child(-n + 50) {
+	display: none;
+}
