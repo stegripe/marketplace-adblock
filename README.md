@@ -13,3 +13,25 @@ Chrome extension to hide product ads on Indonesian marketplace pages
 
 -   [Tokopedia](https://www.tokopedia.com)
 -   [Shopee](https://shopee.co.id)
+
+## Comparison
+
+### Tokopedia
+
+-   Before
+
+!["Tokopedia Before"](screenshots/tokopedia-before.png)
+
+-   After
+
+!["Tokopedia After"](screenshots/tokopedia-after.png)
+
+### Shopee
+
+-   Before
+
+!["Shopee Before"](screenshots/shopee-before.png)
+
+-   After
+
+!["Shopee After"](screenshots/shopee-after.png)
